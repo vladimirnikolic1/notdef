@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="V" format="2">
+  <advance width="523"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="41" y="650" type="line"/>
+      <point x="-12" y="650" type="line"/>
+      <point x="-12" y="667" type="line"/>
+      <point x="234" y="667" type="line"/>
+      <point x="234" y="650" type="line"/>
+      <point x="170" y="650" type="line"/>
+      <point x="309" y="190" type="line"/>
+      <point x="341" y="286"/>
+      <point x="386" y="422"/>
+      <point x="416" y="514"/>
+      <point x="432" y="568"/>
+      <point x="440" y="599"/>
+      <point x="442" y="613"/>
+      <point x="442" y="618" type="qcurve"/>
+      <point x="442" y="637"/>
+      <point x="411" y="650"/>
+      <point x="392" y="650" type="qcurve"/>
+      <point x="367" y="650" type="line"/>
+      <point x="367" y="667" type="line"/>
+      <point x="551" y="667" type="line"/>
+      <point x="551" y="650" type="line"/>
+      <point x="535" y="650"/>
+      <point x="515" y="650"/>
+      <point x="506" y="649" type="qcurve"/>
+      <point x="486" y="646"/>
+      <point x="469" y="612"/>
+      <point x="456" y="572" type="qcurve"/>
+      <point x="260" y="-26" type="line"/>
+    </contour>
+  </outline>
+</glyph>
