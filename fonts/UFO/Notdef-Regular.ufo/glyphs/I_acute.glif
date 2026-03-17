@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iacute" format="2">
+  <advance width="308"/>
+  <unicode hex="00CD"/>
+  <outline>
+    <contour>
+      <point x="77" y="709" type="line"/>
+      <point x="164" y="833" type="line"/>
+      <point x="171" y="836"/>
+      <point x="187" y="840"/>
+      <point x="202" y="843"/>
+      <point x="213" y="844"/>
+      <point x="214" y="844" type="qcurve"/>
+      <point x="223" y="844"/>
+      <point x="243" y="838"/>
+      <point x="248" y="827" type="qcurve"/>
+      <point x="253" y="810"/>
+      <point x="253" y="801" type="qcurve"/>
+      <point x="253" y="779"/>
+      <point x="180" y="742"/>
+      <point x="111" y="713" type="qcurve"/>
+      <point x="83" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="31" y="17" type="line"/>
+      <point x="94" y="17" type="line"/>
+      <point x="94" y="650" type="line"/>
+      <point x="31" y="650" type="line"/>
+      <point x="31" y="667" type="line"/>
+      <point x="280" y="667" type="line"/>
+      <point x="280" y="650" type="line"/>
+      <point x="208" y="650" type="line"/>
+      <point x="208" y="17" type="line"/>
+      <point x="280" y="17" type="line"/>
+      <point x="280" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

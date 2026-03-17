@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="2">
+  <advance width="702"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="26" y="17" type="line"/>
+      <point x="89" y="17" type="line"/>
+      <point x="89" y="650" type="line"/>
+      <point x="26" y="650" type="line"/>
+      <point x="26" y="667" type="line"/>
+      <point x="272" y="667" type="line"/>
+      <point x="272" y="650" type="line"/>
+      <point x="202" y="650" type="line"/>
+      <point x="202" y="17" type="line"/>
+      <point x="319" y="17" type="line"/>
+      <point x="365" y="17"/>
+      <point x="434" y="26"/>
+      <point x="480" y="66"/>
+      <point x="503" y="148"/>
+      <point x="503" y="221" type="qcurve"/>
+      <point x="519" y="221" type="line"/>
+      <point x="519" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="610" y="407" type="line"/>
+      <point x="627" y="428"/>
+      <point x="663" y="495"/>
+      <point x="663" y="536" type="qcurve"/>
+      <point x="663" y="553"/>
+      <point x="653" y="591"/>
+      <point x="641" y="611" type="qcurve"/>
+      <point x="634" y="605" type="line"/>
+      <point x="638" y="597"/>
+      <point x="638" y="586" type="qcurve"/>
+      <point x="638" y="575"/>
+      <point x="623" y="553"/>
+      <point x="600" y="553" type="qcurve"/>
+      <point x="583" y="553"/>
+      <point x="561" y="580"/>
+      <point x="561" y="600" type="qcurve"/>
+      <point x="561" y="625"/>
+      <point x="592" y="653"/>
+      <point x="611" y="653" type="qcurve"/>
+      <point x="629" y="653"/>
+      <point x="657" y="634"/>
+      <point x="675" y="603"/>
+      <point x="684" y="565"/>
+      <point x="684" y="547" type="qcurve"/>
+      <point x="684" y="519"/>
+      <point x="677" y="476"/>
+      <point x="661" y="441"/>
+      <point x="637" y="410"/>
+      <point x="620" y="393" type="qcurve"/>
+    </contour>
+  </outline>
+</glyph>
